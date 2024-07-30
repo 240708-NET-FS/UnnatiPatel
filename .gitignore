@@ -1,0 +1,7 @@
+BookManagementApp/appsettings.json
+BookManagementApp/bin
+BookManagementApp/obj
+
+BookManagementApp.Tests/bin
+BookManagementApp.tests/obj
+
